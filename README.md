@@ -4,4 +4,14 @@
 
 This application allows user to explore where they want, and provide some nice functionalities to have a plan of future trip or adventure.
 
+## Why created this app
 
+This app was mainly created to show my skill in mobile development, and acquire great opportunity to work in iOS development industry.
+
+I've been working as web developer for 1yr anf half, and as mobile developer for half year. 
+
+This app was developed after watching of some tutorials to have fundamental skills for swift. 
+
+The duration of developing this application is 1 week(7 hrs of work per day)
+
+ 
