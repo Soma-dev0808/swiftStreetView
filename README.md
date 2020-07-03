@@ -21,7 +21,7 @@ I have also created simple news feed [applications](https://github.com/Soma-dev0
 
 In this app, since the purpose of creating this app is showing my mobile developing skill, so UI was prioritized this time.
 
-##What technology I used
+## What technology I used
 
 * Swift
 * Google Place Api
