@@ -18,3 +18,30 @@ I have also created simple news feed [applications](https://github.com/Soma-dev0
 , so if you are interested, please check it.
 
  
+## UI Design
+
+In this app, since the purpose of creating this app is showing my mobile developing skill, so UI was prioritized this time.
+
+##What technology I used
+
+* Swift
+* Google Place Api
+* Google Map Api
+
+## Structure of this app
+
+## Feature
+
+* Search place
+* Auto complete plane name
+* Get current user's location
+* Panorama view
+* Save location user liked
+* find near places(eg. search near air port ands find them)
+
+## To test this application
+
+Please clone this application, and try to build and run it.
+
+## License
+[MIT](https://github.com/Soma-dev0808/swiftStreetView/blob/master/LICENSE)
