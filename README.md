@@ -8,10 +8,12 @@ This application allows user to explore where they want, and provide some nice f
 
 This app was mainly created to show my skill in mobile development, and acquire great opportunity to work in iOS development industry.
 
-I've been working as web developer for 1yr anf half, and as mobile developer for half year. 
+I've been working as web developer for 1yr anf half, and as mobile developer for half year. After some of experience with mobile development, I noticed that I'm more interested in mobile, therefore decided to focus working on it especially Swift. 
 
-This app was developed after watching of some tutorials to have fundamental skills for swift. 
+This app was developed after watching of some tutorials to have fundamental skills for Swift. 
 
 The duration of developing this application is 1 week(7 hrs of work per day)
+
+I have also created simple news feed <a href="google.com"></a>, so if you are interested, please check it.
 
  
