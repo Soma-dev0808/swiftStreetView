@@ -17,7 +17,10 @@ I have also created simple news feed [applications](https://github.com/Soma-dev0
 , so if you are interested, please check it.
 
  
+
 ## UI Design
+
+<img src="https://user-images.githubusercontent.com/55787141/86478961-d1676f80-bd7d-11ea-9fbd-a91a4a5ae0e3.png" width="800" height="600"> 
 
 In this app, since the purpose of creating this app is showing my mobile developing skill, so UI was prioritized this time.
 
