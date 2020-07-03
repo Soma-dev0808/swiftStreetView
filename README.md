@@ -14,6 +14,7 @@ This app was developed after watching of some tutorials to have fundamental skil
 
 The duration of developing this application is 1 week(7 hrs of work per day)
 
-I have also created simple news feed <a href="google.com"></a>, so if you are interested, please check it.
+I have also created simple news feed [a link](https://github.com/Soma-dev0808/swiftNewsFeed)
+, so if you are interested, please check it.
 
  
