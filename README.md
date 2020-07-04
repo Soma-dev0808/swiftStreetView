@@ -27,8 +27,9 @@ In this app, since the purpose of creating this app is showing my mobile develop
 ## What technology I used
 
 * Swift
-* Google Place Api
-* Google Map Api
+* Google Place Api (Place Auto Complete, Handle Coordinates)
+* Google Map Api (Map View Handling)
+* Realm (Save Location Data)
 
 ## Structure of this app
 
