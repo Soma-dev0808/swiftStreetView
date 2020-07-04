@@ -11,8 +11,8 @@ class Map2DViewController: UIViewController {
     @IBOutlet weak var loadingAddressIndicator: UIActivityIndicatorView!
     
     var coordinate: CLLocationCoordinate2D?
-    var marker = GMSMarker(position: CLLocationCoordinate2D(latitude: 0, longitude: 0))
-    let locationManager = CLLocationManager()
+    private var marker = GMSMarker(position: CLLocationCoordinate2D(latitude: 0, longitude: 0))
+    private let locationManager = CLLocationManager()
     
     override func viewDidLoad() {
         super.viewDidLoad()

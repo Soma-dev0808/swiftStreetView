@@ -12,9 +12,9 @@ class FavPlaceCell: SwipeTableViewCell {
 // This page is showing favorite locaitons user added
 class FavoritePlaceTableViewController: UITableViewController, SwipeTableViewCellDelegate {
 
-    let realm = try! Realm()
+    private let realm = try! Realm()
     
-    var favPlace: Results<FavoritePlace>? {
+    private var favPlace: Results<FavoritePlace>? {
         didSet {
             updateTable()
         }

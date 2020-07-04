@@ -8,7 +8,7 @@ class StartSearchViewController: UIViewController, CLLocationManagerDelegate {
     @IBOutlet weak var favLocationButton: UIButton!
     
     //Allow app to use user location
-    let locationManager = CLLocationManager()
+    private let locationManager = CLLocationManager()
     var coordinate: CLLocationCoordinate2D?
     
     override var preferredStatusBarStyle: UIStatusBarStyle {

@@ -11,10 +11,10 @@ protocol SuggestedPlaceDelegate {
 
 class PlaceSuggestViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
 
-    var tableView: UITableView = UITableView()
-    let headerView:UIView = UIView()
-    let label: UILabel = UILabel()
-    let spinner = SpinnerViewController()
+    private var tableView: UITableView = UITableView()
+    private let headerView:UIView = UIView()
+    private let label: UILabel = UILabel()
+    private let spinner = SpinnerViewController()
     
     var targetCoordinate: CLLocationCoordinate2D?
     var searchKey: String?
