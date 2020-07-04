@@ -33,7 +33,7 @@ In this app, since the purpose of creating this app is showing my mobile develop
 
 ## Structure of this app
 
-<img src="https://user-images.githubusercontent.com/55787141/86480678-0f19c780-bd81-11ea-8026-219ff084e6f2.png" width="950" height="600"> 
+<img src="https://user-images.githubusercontent.com/55787141/86480678-0f19c780-bd81-11ea-8026-219ff084e6f2.png" width="0" height="600"> 
 
 This app was developed based on MVC. View will show UI, and Controller handle actions such as user input and page navigation. Model will handle data and provide some methods to handle converting data.
 
