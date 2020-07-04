@@ -50,9 +50,11 @@ For the navigation of app is using Navigation Controller to make it smooth to na
 
 ## To test this application
 
-Please clone this application, and please run
-pod deintegrate
-pod install
+Please clone this application, and please run 
+
+* pod deintegrate
+* pod install
+
 then you can already build it
 
 ## License
