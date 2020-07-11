@@ -20,7 +20,7 @@ I have also created a simple news feed [applications](https://github.com/Soma-de
 
 ## UI Design
 
-<img src="https://user-images.githubusercontent.com/55787141/86478961-d1676f80-bd7d-11ea-9fbd-a91a4a5ae0e3.png" width="950" height="600"> 
+<img src="https://user-images.githubusercontent.com/55787141/86478961-d1676f80-bd7d-11ea-9fbd-a91a4a5ae0e3.png" width="1000" height="600"> 
 
 In this app, since the purpose of creating this app is showing my mobile developing skill, so UI wasn't prioritized this time.
 
@@ -33,7 +33,7 @@ In this app, since the purpose of creating this app is showing my mobile develop
 
 ## Structure of this app
 
-<img src="https://user-images.githubusercontent.com/55787141/86480678-0f19c780-bd81-11ea-8026-219ff084e6f2.png" width="0" height="600"> 
+<img src="https://user-images.githubusercontent.com/55787141/86480678-0f19c780-bd81-11ea-8026-219ff084e6f2.png" width="900" height="600"> 
 
 This app was developed based on MVC. View will show UI, and Controller handle actions such as user input and page navigation. Model will handle data and provide some methods to handle converting data.
 
